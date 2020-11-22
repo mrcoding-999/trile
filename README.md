@@ -1,2 +1,2 @@
 # trile
-trile repo
+trile repo for git command
